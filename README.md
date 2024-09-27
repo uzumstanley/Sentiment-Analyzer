@@ -14,3 +14,10 @@ Social Media Analysis: Analyzes public sentiment on social media platforms to ga
 Market Research: Provides insights into consumer opinions on products or services, aiding in strategic decision-making.
 Content Moderation: Assists in identifying and managing inappropriate or harmful content online.
 Brand Monitoring: Tracks brand sentiment over time, helping businesses maintain a positive reputation.
+
+## Deployment
+The deployment process includes end-to-end implementation from data collection to full deployment, ensuring a seamless user experience. This web app can be accessed at this URL: https://sentiment-analyzer-8i7k.onrender.com
+
+
+
+
