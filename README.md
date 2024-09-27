@@ -16,7 +16,7 @@ Content Moderation: Assists in identifying and managing inappropriate or harmful
 Brand Monitoring: Tracks brand sentiment over time, helping businesses maintain a positive reputation.
 
 ## Deployment
-The deployment process includes end-to-end implementation from data collection to full deployment, ensuring a seamless user experience. This web app can be accessed at this URL: https://sentiment-analyzer-8i7k.onrender.com
+The deployment process includes end-to-end implementation from data collection to full deployment, ensuring a seamless user experience.(render.com) 
 
 ## Acknowledgments
 TensorFlow
